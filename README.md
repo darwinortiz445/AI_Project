@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Project: Sistema de Recomendación con GitHub Copilot
 
 Actividad formativa de exploración de tendencias emergentes en Inteligencia Artificial utilizando GitHub Copilot en INACAP.
